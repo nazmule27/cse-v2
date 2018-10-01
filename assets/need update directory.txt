@@ -1,0 +1,4 @@
+faculty\photos => assets\img\faculty
+personnel\photo => assets\img\officer_staff
+routine => assets\docs\class_routine
+news/AllForms => assets\docs\downloadable_forms
